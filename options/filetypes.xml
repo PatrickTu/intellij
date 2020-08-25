@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="SyncConsumer" type="CLASS" />
+      <mapping pattern="HelloController" type="JAVA" />
+      <mapping ext="avsc" type="JSON" />
+      <mapping pattern="EventPlanLifecycleAnnuityContractChange" type="PLAIN_TEXT" />
+      <mapping pattern="EventPlanLifecycleAnnuityContractChange.avsc" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
